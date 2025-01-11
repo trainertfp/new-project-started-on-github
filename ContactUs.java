@@ -1,7 +1,7 @@
 public class ContactUs {
     
     public String render() {
-        return "[ContactUs] Contact us page";
+        return "[ContactUs] Updated message on contact us";
     }
 
 }
